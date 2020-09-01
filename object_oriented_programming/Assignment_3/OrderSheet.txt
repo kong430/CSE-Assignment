@@ -1,0 +1,20 @@
+Table #1
+ramen
+friedrice
+ovenroast
+Table #3
+stew
+friedrice
+Table #4
+ramen
+friedrice
+ovenroast
+Table #2
+ramen
+stew
+friedrice
+ovenroast
+Table #5
+ramen
+friedrice
+stew
